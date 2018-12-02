@@ -10,3 +10,4 @@ C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria\obj\Debug\netstanda
 C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria\obj\Debug\netstandard2.0\Walmaria.dll
 C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria\obj\Debug\netstandard2.0\Walmaria.pdb
 C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria\obj\Debug\netstandard2.0\Walmaria.csprojAssemblyReference.cache

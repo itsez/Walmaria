@@ -7,6 +7,10 @@
             <Label Text="Character Selection"
                 VerticalOptions="StartAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
+            <Image Source="tyler.PNG"/>
+            <Image Source="bev.PNG"/>
+            <Image Source="keith.PNG"/>
+            <Image Source="andy.PNG"/>
 
         </StackLayout>
     </ContentPage.Content>

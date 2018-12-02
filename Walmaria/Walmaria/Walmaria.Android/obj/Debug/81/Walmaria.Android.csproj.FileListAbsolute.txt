@@ -102,6 +102,8 @@ C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria.Android\obj\Debug\8
 C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria.Android\obj\Debug\81\android\assets\Walmaria.Android.pdb
 C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria\bin\Debug\netstandard2.0\Walmaria.dll
+C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria.Android\bin\Debug\Walmaria.dll.mdb
 C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
 C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria.Android\obj\Debug\81\linksrc\Walmaria.dll.mdb
 C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

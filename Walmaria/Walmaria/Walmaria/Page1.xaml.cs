@@ -15,10 +15,6 @@ namespace Walmaria
 		public Page1 ()
 		{
 			InitializeComponent ();
-            var bev = new Image { Source = "Walmaria.images.bev.PNG" };
-            var keith = new Image { Source = "Walmaria.images.keith.PNG" };
-            var tyler = new Image { Source = "Walmaria.images.tyler.PNG" };
-            var andy = new Image { Source = "Walmaria.images.andy.PNG" };
         }
 	}
 }
