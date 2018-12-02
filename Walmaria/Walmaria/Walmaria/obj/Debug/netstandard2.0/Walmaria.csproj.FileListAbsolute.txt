@@ -1,0 +1,12 @@
+C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria\bin\Debug\netstandard2.0\Walmaria.deps.json
+C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria\bin\Debug\netstandard2.0\Walmaria.dll
+C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria\bin\Debug\netstandard2.0\Walmaria.pdb
+C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria\obj\Debug\netstandard2.0\Walmaria.csproj.CoreCompileInputs.cache
+C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria\obj\Debug\netstandard2.0\Walmaria.AssemblyInfoInputs.cache
+C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria\obj\Debug\netstandard2.0\Walmaria.AssemblyInfo.cs
+C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria\obj\Debug\netstandard2.0\Walmaria.dll
+C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria\obj\Debug\netstandard2.0\Walmaria.pdb
+C:\Users\johnh\Documents\Walmaria\Walmaria\Walmaria\Walmaria\obj\Debug\netstandard2.0\Page1.xaml.g.cs
